@@ -31,13 +31,6 @@ This Flutter app showcases how to:
    - Network timeout handling (15 seconds)
    - Empty state handling
 
-### 🎨 UI Features:
-- Modern Material Design with gradients and cards
-- Pull-to-refresh functionality
-- Responsive design for all screen sizes
-- Beautiful loading and error states
-- Tabbed navigation in user profiles
-
 ## 🏗️ Project Structure
 
 ```
@@ -56,31 +49,6 @@ lib/
 └── utils/
     └── constants.dart       # App constants and strings
 ```
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (3.8.0 or higher)
-- Dart SDK
-- Android Studio / VS Code
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Zahra-Dua/Internship-task-4---Http-Request.git
-   cd Internship-task-4---Http-Request
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ## 📱 App Flow
 
@@ -114,13 +82,10 @@ dependencies:
 
 ## 📸 Screenshots
 
-The app includes:
-- **Home Screen**: Navigation to Users and Posts
-- **Users List**: Display all users with avatars and basic info
-- **User Profile**: Detailed user information with tabs
-- **Posts List**: Display all posts with user attribution
-- **Error States**: Beautiful error handling with retry options
-- **Loading States**: Professional loading indicators
+<img width="623" height="808" alt="image" src="https://github.com/user-attachments/assets/4c72d962-df2b-4ce5-9044-7e4a703af992" />
+<img width="618" height="730" alt="image" src="https://github.com/user-attachments/assets/52c492b5-71b3-425c-92a1-8756a3e05350" />
+<img width="618" height="849" alt="image" src="https://github.com/user-attachments/assets/3da66ba7-cc1c-4da4-ba3b-175d479fca2d" />
+<img width="619" height="893" alt="image" src="https://github.com/user-attachments/assets/faaa754a-16c9-4f26-806e-b53fd30f1fbd" />
 
 ## 🎓 Learning Objectives Achieved
 
@@ -145,10 +110,6 @@ The app includes a "Test API Connection" button on the home screen that:
 - Shows success/failure results
 - Displays the number of items fetched
 - Helps verify API connectivity
-
-## 📄 License
-
-This project is created for educational purposes as part of the internship program.
 
 ## 👨‍💻 Author
 
